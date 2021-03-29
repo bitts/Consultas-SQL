@@ -111,16 +111,15 @@ ELSE
 		print 'Restaurando a database...' ;
 		RESTORE DATABASE @dbname_destino FROM DISK = @bkp_file;
 	END
+									      
 /*	
--- FAZER LISTA SIMPLES SEPARADO SOMENTE POR VIRGULA E TRANSFORMAR EM:
+-- FAZER LISTA SIMPLES SEPARADO SOMENTE POR VIRGULA E TRANSFORMAR EM: (informar usuario que deseja bloquear)
 @user_list =  
-		CHAR(39) + 'vandre' +  CHAR(39) +', '+  
-		CHAR(39) + 'marcelo.valvassori' +  CHAR(39) +', '+ 
-		CHAR(39) + 'fumaco' +  CHAR(39) +', '+  
+		CHAR(39) + 'usuario1' +  CHAR(39) +', '+  
+		CHAR(39) + 'usuario2' +  CHAR(39) +', '+ 
+		CHAR(39) + 'usuario3' +  CHAR(39) +', '+  
 		CHAR(39) + 'mestre' +  CHAR(39) +', '+  
-		CHAR(39) + 'pablo.totvs' +  CHAR(39) +', '+  
-		CHAR(39) + 'tiago.totvsrs' +  CHAR(39) +', '+  
-		CHAR(39) + 'marco.totvsrs' +  CHAR(39) +'
+		CHAR(39) + 'totvs' +  CHAR(39) +'
 @bloqueia_user = 'UPDATE GUSUARIO SET STATUS = '0' WHERE CODUSUARIO NOT IN ('+ @user_list +')';
 EXEC @bloqueia_user ;
 */
