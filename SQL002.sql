@@ -17,7 +17,6 @@ EXEC('
 
 EXEC('DROP DATABASE '+ @dbname )
 
-
 IF DB_ID(@dbname) IS NULL
 BEGIN 
 	/*ALTER DATABASE @dbname SET SINGLE_USER WITH
