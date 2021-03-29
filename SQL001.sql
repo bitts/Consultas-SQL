@@ -8,7 +8,7 @@
 
 IF OBJECT_ID ( 'dbo.restdb', 'P' ) IS NOT NULL  
 	DROP PROCEDURE restdb;
-
+	
 GO
 
 CREATE PROCEDURE restdb(@dbname_origem SYSNAME, @dbname_destino SYSNAME, @return VARCHAR(MAX) OUTPUT) AS
