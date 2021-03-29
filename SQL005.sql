@@ -3,7 +3,6 @@
 	Create By Bitts (31/07/2015)
 	
 	Obs.: Iniciado por Marcelo Fumaco e Terminado por Bitts
-	
 */
 
 SELECT
@@ -52,7 +51,7 @@ FROM
 	SHABILITACAOALUNO A(NOLOCK)
 		LEFT JOIN  (
 			SELECT 
-				RA,	SUM (CARGAHORARIAATV) AS ATIVIDADES 
+				RA, SUM (CARGAHORARIAATV) AS ATIVIDADES 
 			FROM  
 				SATIVIDADEALUNO	(NOLOCK)		
 			GROUP BY RA
