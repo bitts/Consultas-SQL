@@ -1,5 +1,10 @@
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bitts/Consultas-SQL"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/bitts/Consultas-SQL"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bitts/Consultas-SQL/total"> 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bitts/Consultas-SQL">
+
+
 # ConsultasTSQL-RMTotvs
 Consultas montadas para o SQL Server do Sistema Corporativo RM TOTVS Educacional
+
 
 - SQL001.sql Copia da base de dados para arquivo via script
 - SQL002.sql Desbloquear base de dados
