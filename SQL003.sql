@@ -3,7 +3,6 @@
 	Create By Bitts (31/07/2015)
 	
 	Obs.: Iniciado por Marcelo Fumaco e Terminado por Bitts
-	
 */
 
 SELECT
