@@ -8,7 +8,7 @@ Consultas de minha autoria montadas para o SQL Server do Sistema Corporativo RM 
 
 - SQL001.sql Copia da base de dados para arquivo via script
 - SQL002.sql Desbloquear base de dados
-- SQL003.sql 
+- SQL003.sql cubo do ENAD2015
 - SQL004.sql Script de exibição das parcelas de aluno
 - SQL005.sql Cubo do ENAD2015
 - SQL006.sql Função para retornar somente número
