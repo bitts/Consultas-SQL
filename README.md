@@ -1,4 +1,4 @@
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bitts/Consultas-SQL"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/bitts/Consultas-SQL"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bitts/Consultas-SQL/total"> 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bitts/Consultas-SQL"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/bitts/Consultas-SQL"> <!-- img alt="GitHub all releases" src="https://img.shields.io/github/downloads/bitts/Consultas-SQL/total" --> 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bitts/Consultas-SQL">
 
 
