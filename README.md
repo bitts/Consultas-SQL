@@ -3,12 +3,12 @@
 
 
 # ConsultasTSQL-RMTotvs
-Consultas montadas para o SQL Server do Sistema Corporativo RM TOTVS Educacional
+Consultas de minha autoria montadas para o SQL Server do Sistema Corporativo RM TOTVS Educacional
 
 
 - SQL001.sql Copia da base de dados para arquivo via script
 - SQL002.sql Desbloquear base de dados
-- SQL003.sql Create SQL003.sql
+- SQL003.sql 
 - SQL004.sql Script de exibição das parcelas de aluno
 - SQL005.sql Cubo do ENAD2015
 - SQL006.sql Função para retornar somente número
